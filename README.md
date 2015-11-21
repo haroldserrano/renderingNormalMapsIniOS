@@ -436,6 +436,9 @@ Run the project. Swipe your fingers horizontally across the screen. You should n
 ##### Figure 5. A 3D model with normal mapping in iOS device
 ![](https://dl.dropboxusercontent.com/u/107789379/CGDemy/blogimages/normalMappingiOS.png "normal mapping in iOS")
 
-###Credit
+###Credits
+[Harold Serrano](http://www.haroldserrano.com) Author of this repository and post
 
-###Question
+###Questions
+If you have any questions about this repository, feel free to contact me at http://www.haroldserrano.com/contact/
+
